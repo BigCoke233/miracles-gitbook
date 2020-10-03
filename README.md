@@ -1,20 +1,10 @@
----
-description: Typecho 主题 Miracles 的使用文档，大部分问题都能在这里被解决
----
+# Miracles! 使用手册
 
-# Miracles 使用手册
-
-欢迎来到 [Miracles 主题](https://github.com/BigCoke233/miracles)的文档页面，这能解决你在使用 Miracles 主题时遇到的大部分问题。如果你确定你遇到的问题是一个 bug 并且你不能在文档里找到答案，请在 GitHub 发起 [issue](https://github.com/BigCoke233/miracles/issues)，或者尝试直接联系我（via email: `hi@guhub.cn` 或者 `eltrac233@qq.com` 作为备用）
-
-{% hint style="warning" %}
-English and other edtion are not provided yet. If you're glad, please help us.
+{% hint style="info" %}
+这个文档还在编辑，并不完善
 {% endhint %}
 
-另外，主题交流群已创建，欢迎交流讨论：
-
-* [Telegram](https://t.me/joinchat/MDhM9hVQ8i7xLdHIX1sb3Q)
-* [QQ 群](https://qm.qq.com/cgi-bin/qm/qr?k=0F-owiCIQCQyv9b3gMAOQZl6mk1XNSPR&jump_from=webapi)
-* ~~微信（怎么可能建微信群呢~~😑~~）~~
+欢迎来到 Miracle! 主题的文档页面，这能解决你在使用 Miracle! 主题时遇到的大部分问题。
 
 ## 使用前
 
@@ -47,25 +37,11 @@ English and other edtion are not provided yet. If you're glad, please help us.
 /install.php
 ```
 
-### 获取主题文件
+### 安装主题
 
-请到 GitHub 仓库的 [Releases 页面](https://github.com/BigCoke233/miracles/releases)下载 Miracles 主题最新版。Releases 页面中提供打包后的主题文件（.zip），这些打包好的文件被称作**发行版**，它们相对与仓库内直接下载的版本（称作**开发版**）更加稳定，推荐使用。
-
-如果你需要下载开发版，可以使用 git 命令克隆仓库（前提是你的设备中需要安装 Git）或者[直接下载仓库](https://github.com/BigCoke233/miracles/archive/master.zip)。
-
-```text
-$ git clone https://github.com/BigCoke233/miracles.git
-```
-
-注意，开发版是仍在开发、修改、测试的版本，实时更进主题更新进度，有许多的不确定因素，没有进过充分测试，但源码没有进过压缩，更适合开发工作，所以，如果你不是需要对源代码进行太大的修改、需要 DEBUG 或是十分想要尝试新功能，我不建议你在生产环境中使用开发版的主题文件。
-
-### 开始使用
-
-将 Miracles 主题文件上传至 Typecho 的 `/usr/themes/`目录，并确保主题目录名为 `Miracles`（M 大写），否则会导致一些错误。
+将 Miracle! 主题文件上传至 Typecho 的 `/usr/themes/`目录，并确保主题目录名为 `Miracles`（M 大写），否则会导致一些错误。
 
 登录 Typecho 管理后台，在顶部导航栏找到「外观」，启用 Miracles 主题。
 
 至此，你已经完成了 Typecho 及 Miracles 主题的安装，进入「设置外观」对主题进行个性化配置，建议阅读基本配置这一文段进行设置。
-
-对了，如果你还没有 star 本项目，请前往[主题](https://github.com/BigCoke233/miracles)给这个项目点一个 Star，这是对开发者和其他项目维护者的支持与认可，同时这也写在了主题的开源协议（参见仓库里的 LINCENSE 文件）中。
 

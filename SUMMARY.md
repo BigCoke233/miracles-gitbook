@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Miracles 使用手册](README.md)
+* [Miracles! 使用手册](README.md)
 
 ## 使用
 
