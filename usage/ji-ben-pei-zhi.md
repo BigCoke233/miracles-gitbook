@@ -6,7 +6,7 @@ description: 设置你的 Miracle! 主题
 
 ### 设置分类
 
-目前（截至 Beta.0.1.1 版本），Miracle! 的设置项共分为**信息\(info\)、显示\(display\)、优化\(improvement\)、高级\(advanced\)、开发者设置\(developer settings\)** 这几个分类。
+目前（截至 Beta.0.1.2 版本），Miracle! 的设置项共分为**信息\(info\)、显示\(display\)、优化\(improvement\)、高级\(advanced\)、开发者设置\(developer settings\)** 这几个分类。
 
 分类是为了帮助你更快地找到你需要的设置，这些设置被折叠在对应分类的分类栏里，点击即可展开，也可以点击设置面板上方的「展开所有设置项」一键展开。
 
