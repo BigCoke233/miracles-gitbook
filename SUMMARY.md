@@ -6,4 +6,5 @@
 
 * [基本配置](usage/ji-ben-pei-zhi.md)
 * [短代码](usage/duan-dai-ma.md)
+* [友情链接](usage/you-qing-lian-jie.md)
 
