@@ -16,10 +16,9 @@ Tip 用来展示一段需要被读者注意的简短**提示/警告信息**，�
 [tip type="yellow"]黄色的 Tip，通常用于标识一段需要引起注意的信息[/tip]
 [tip type="red"]红色的 Tip，通常用于标识一段警告信息[/tip]
 [tip type="green"]绿色的 Tip，通常用于标识一段祝贺/成功/正面的信息[/tip]
-[tip type="purple"]紫色的 Tip，无实义[/tip]
 ```
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 你还可以用 Tip Group 把这些 Tip 放在一起，这会让他们排列得更紧密
 
@@ -36,7 +35,11 @@ Tip 用来展示一段需要被读者注意的简短**提示/警告信息**，�
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
-### Shadow（阴影工具）
+{% hint style="warning" %}
+Tip Group 暂未支持新的（0.2.0 及以后）Tip 样式
+{% endhint %}
+
+### Shadow（阴影）
 
 使用阴影工具，可以给图片和表格添加阴影效果，使内容更突出
 
@@ -94,7 +97,5 @@ Tip 用来展示一段需要被读者注意的简短**提示/警告信息**，�
 折叠框采用 html 原生的 `<details>` 标签，并使用 js 垫片优化了其兼容性，面向未来，向下兼容。
 {% endhint %}
 
-![](../.gitbook/assets/honeycam-2020-10-06-15-29-20.gif)
-
-
+![](../.gitbook/assets/honeycam-2020-11-23-00-00-35.gif)
 
